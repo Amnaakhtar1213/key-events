@@ -27,12 +27,12 @@ This project shows us how to move an HTML element around the screen using keyboa
 -  **HTML**
 -  **CSS**
 -  **JAVASCRIPT**
--  
+  
 
 -------
 
 #   How to run
 
-[Click here to view the repository]()
+[Click here to view the repository](https://github.com/Amnaakhtar1213/key-events.git)
 ```bash
-git clone 
+git clone https://github.com/Amnaakhtar1213/key-events.git
